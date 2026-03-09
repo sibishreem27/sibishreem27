@@ -36,9 +36,12 @@ I am from Chennai, Tamil Nadu. I completed my schooling at Ideal Matric Higher S
 - Basic Model Evaluation
 
 ### Tools & Technologies
-- SQL Queries
-- Git & GitHub
+- Visual Studio Code
 - Jupyter Notebook
+- Git & GitHub
+- MySQL Workbench
+- MongoDB Compass
+- Postman
 
 ---
 
